@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-15T02:26:20 IST" name="Suite" finished-at="2024-01-15T02:27:39 IST" duration-ms="79441">
+    <groups>
+    </groups>
+    <test started-at="2024-01-15T02:26:20 IST" name="Test" finished-at="2024-01-15T02:27:39 IST" duration-ms="79441">
+      <class name="FlipkartAutomate.AutomationEcommerce.AppTest">
+        <test-method signature="testApp()[pri:0, instance:FlipkartAutomate.AutomationEcommerce.AppTest@32502377]" started-at="2024-01-15T02:27:39 IST" name="testApp" finished-at="2024-01-15T02:27:39 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- FlipkartAutomate.AutomationEcommerce.AppTest -->
+      <class name="FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:26:20 IST" name="beforeClass" finished-at="2024-01-15T02:26:30 IST" duration-ms="10080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="closeLogin()[pri:1, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:26:30 IST" name="closeLogin" finished-at="2024-01-15T02:26:31 IST" duration-ms="971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeLogin -->
+        <test-method signature="scroll()[pri:2, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:26:31 IST" name="scroll" finished-at="2024-01-15T02:26:38 IST" duration-ms="6908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="searchIphone13()[pri:3, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:26:38 IST" name="searchIphone13" finished-at="2024-01-15T02:26:48 IST" duration-ms="10172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIphone13 -->
+        <test-method signature="loadImage()[pri:4, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:26:48 IST" name="loadImage" finished-at="2024-01-15T02:27:28 IST" duration-ms="39899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadImage -->
+        <test-method signature="scrollFrequency()[pri:5, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:27:28 IST" name="scrollFrequency" finished-at="2024-01-15T02:27:31 IST" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollFrequency -->
+        <test-method signature="downloadImages()[pri:6, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:27:31 IST" name="downloadImages" finished-at="2024-01-15T02:27:31 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadImages -->
+        <test-method signature="screenResolution()[pri:7, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:27:31 IST" name="screenResolution" finished-at="2024-01-15T02:27:39 IST" duration-ms="8085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenResolution -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome@17497425]" started-at="2024-01-15T02:27:39 IST" name="afterClass" finished-at="2024-01-15T02:27:39 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- FlipkartAutomate.AutomationEcommerce.FlipkartTestChrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
